@@ -1,0 +1,75 @@
+Does f1 contain (4|4)? --> true
+Does f2 contain (4|4)? --> false
+Does f3 contain (4|4)? --> false
+Does f4 contain (4|4)? --> true
+
+Is f1 parallel to the x axis? --> false
+Is f2 parallel to the x axis? --> false
+Is f3 parallel to the x axis? --> false
+Is f4 parallel to the x axis? --> true
+
+Is f1 parallel to f3? --> false
+Is f2 parallel to f3? --> true
+Is f3 parallel to f3? --> true
+Is f4 parallel to f3? --> false
+
+------------
+0.0
+1.0
+3.0
+4.0
+------------
+------------
+1.0
+3.0
+5.0
+4.0
+------------
+------------
+2.0
+5.0
+7.0
+4.0
+------------
+------------
+3.0
+7.0
+9.0
+4.0
+------------
+------------
+4.0
+9.0
+11.0
+4.0
+------------
+------------
+5.0
+11.0
+13.0
+4.0
+------------
+------------
+6.0
+13.0
+15.0
+4.0
+------------
+------------
+7.0
+15.0
+17.0
+4.0
+------------
+------------
+8.0
+17.0
+19.0
+4.0
+------------
+------------
+9.0
+19.0
+21.0
+4.0
+------------
